@@ -213,3 +213,12 @@ Star the repo if you find it useful!
 **Made for platform engineers building multi-tenant Kubernetes and internal developer platforms.**  
 
 Let's expand open virtual clusters while recognizing the operational simplicity of fully managed Kubernetes services.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Virtual-Kubernetes-Clusters&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Virtual-Kubernetes-Clusters_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Virtual-Kubernetes-Clusters_growth.svg">
+  </picture>
+</a>
