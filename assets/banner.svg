@@ -82,7 +82,7 @@
       .orbit-spin { animation: orbitRotate 14s infinite linear; transform-origin: 75px 120px; }
       .orbit-spin-rev { animation: orbitRotate 18s infinite linear reverse; transform-origin: 825px 120px; }
       .title-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Ubuntu', sans-serif; }
-      .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 11px; }
+      .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji', sans-serif; font-weight: 600; font-size: 11px; }
     </style>
   </defs>
 
@@ -139,7 +139,7 @@
   <g transform="translate(450, 48)">
     <rect x="-140" y="-14" width="280" height="22" rx="11" fill="#1e293b" stroke="#334155" stroke-width="1"/>
     <circle cx="-120" cy="-3" r="4" fill="#10b981"/>
-    <text x="-108" y="1" fill="#94a3b8" font-size="11" font-weight="700" letter-spacing="1.5" class="title-text">CLOUD-NATIVE &bull; MULTI-TENANCY</text>
+    <text x="-108" y="1" fill="#94a3b8" font-size="11" font-weight="700" letter-spacing="1.5" class="title-text">CLOUD-NATIVE &#8226; MULTI-TENANCY</text>
   </g>
 
   <!-- Main Title -->
@@ -147,7 +147,7 @@
 
   <!-- Subtitle -->
   <text class="title-text" x="450" y="138" text-anchor="middle" fill="#cbd5e1" font-size="14.5" font-weight="500" letter-spacing="0.3">
-    Curated Hub for Virtual Clusters &bull; Nested Control Planes &bull; vCluster &bull; KaaS
+    Curated Hub for Virtual Clusters &#8226; Nested Control Planes &#8226; vCluster &#8226; KaaS
   </text>
 
   <!-- Foreground Pill Badges (Non-overlapping) -->
