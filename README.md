@@ -107,7 +107,7 @@ Below is a curated evaluation of leading commercial cloud providers and managed 
 
 The virtual Kubernetes cluster movement is pioneered and driven by open-source technologies. Below is the complete collection of virtual cluster engines, nested control planes, multi-tenancy operators, and cluster orchestration frameworks.
 
-> *Sorted descending by GitHub Stars_Count.*
+> *Sorted descending by GitHub_Stars_Count.*
 
 - **[Kubernetes](https://github.com/kubernetes/kubernetes)** [![Stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=social&color=white)](https://github.com/kubernetes/kubernetes/stargazers)  
   The foundational production-grade container orchestration engine that powers modern cloud-native infrastructure, supporting native namespace primitives, resource quotas, and extensible admission control.
