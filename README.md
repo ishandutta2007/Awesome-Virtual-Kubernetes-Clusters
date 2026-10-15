@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Virtual-Kubernetes-Clusters/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Virtual-Kubernetes-Clusters?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Virtual-Kubernetes-Clusters/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Virtual-Kubernetes-Clusters?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Virtual-Kubernetes-Clusters/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Virtual-Kubernetes-Clusters?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Virtual-Kubernetes-Clusters/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Virtual-Kubernetes-Clusters/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -107,7 +107,7 @@ Below is a curated evaluation of leading commercial cloud providers and managed 
 
 The virtual Kubernetes cluster movement is pioneered and driven by open-source technologies. Below is the complete collection of virtual cluster engines, nested control planes, multi-tenancy operators, and cluster orchestration frameworks.
 
-> *Sorted descending by GitHub Star count.*
+> *Sorted descending by GitHub Stars_Count.*
 
 - **[Kubernetes](https://github.com/kubernetes/kubernetes)** [![Stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=social&color=white)](https://github.com/kubernetes/kubernetes/stargazers)  
   The foundational production-grade container orchestration engine that powers modern cloud-native infrastructure, supporting native namespace primitives, resource quotas, and extensible admission control.
@@ -217,3 +217,12 @@ Your support helps maintain high-quality, up-to-date resources for the cloud-nat
 <p align="center">
   <i>Maintained with ☸️ and ❤️ for cloud-native developers, platform engineers, and DevOps teams worldwide.</i>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Virtual-Kubernetes-Clusters&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Virtual-Kubernetes-Clusters_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Virtual-Kubernetes-Clusters_growth.svg">
+  </picture>
+</a>
